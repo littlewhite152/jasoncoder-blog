@@ -14,8 +14,8 @@ template = {
     "path": "../Galileo"
 }
 enable_jsdelivr = {
-    "enabled": False,
-    "repo": ""
+    "enabled": True,
+    "repo": "littlewhite152/jasoncoder-blog@gh-pages"
 }
 
 # 站点设置
